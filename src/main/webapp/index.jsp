@@ -56,6 +56,7 @@
     <div class="col-md-3 ">
         <%-- 登录界面 --%>
         <jsp:include page="/WEB-INF/jsp/dl.jsp"/>
+      
 <a href="format"> <button class="btn btn-success">格式化</button></a>
         <%-- 发表博文 --%>
         <jsp:include page="/WEB-INF/jsp/edit_blog.jsp"/>
@@ -64,5 +65,6 @@
 <!-- body区域结束 -->
 <!-- 页脚 -->
 <jsp:include page="/WEB-INF/jsp/footer.jsp"/>
+  <jsp:include page="/WEB-INF/jsp/toupiao.jsp"/>
 </body>
 </html>

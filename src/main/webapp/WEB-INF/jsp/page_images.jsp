@@ -9,13 +9,13 @@
     </div>
     <div class="carousel-inner" role="listbox">
         <div class="carousel-item active">
-            <img src="/webapp/WEB-INF/images/1.jpg" alt="First slide">
+            <img src="file:///C:/Users/Administrator/git/luoning1/springmvc1433223/src/main/webapp/WEB-INF/images/1.jpg" alt="First slide">
         </div>
         <div class="carousel-item">
-            <img src="/webapp/WEB-INF/images/2.jpg" alt="Second slide">
+            <img src="file:///C:/Users/Administrator/git/luoning1/springmvc1433223/src/main/webapp/WEB-INF/images/2.jpg" alt="Second slide">
         </div>
         <div class="carousel-item">
-            <img src="/webapp/WEB-INF/images/3.png" alt="Third slide">
+            <img src="file:///C:/Users/Administrator/git/luoning1/springmvc1433223/src/main/webapp/WEB-INF/images/3.png" alt="Third slide">
         </div>
         <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
             <span class="icon-prev" aria-hidden="true"></span>
